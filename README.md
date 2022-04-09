@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end and back-end development.
 - 🌱 I’m currently learning HTML,CSS,JavaScript, Boostrap, ASP.NET, C# and MS SQL.
 - 💞️ I’m looking to collaborate on web development and software development 
-- 📫 How to reach me @AbdulJibrilla, zakitworld@gmail.com 
+- 📫 How to reach me @AbdulJibrilla, zakitworld.netlify.app
 - 😁 Always happy and ready to help.
 
 <!---
