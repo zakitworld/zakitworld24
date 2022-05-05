@@ -4,7 +4,7 @@ Hi 👋 My name is Abdul-Razak, J
 Web Developer and Designer
 --------------------------
 
-I've been learning to code for four years now after gaining admission to further my education at University. I started with C++, Java, VB and MySQL, but have really found a passion for front-end development.
+I've been learning to code for four years now after gaining admission to further my education at University. I started with C++ but have really found a passion for front-end development.
 
 *   🌍  I'm based in Accra, Ghana 🇬🇭
 *   🖥️  See my portfolio at [MyPortfolio](http://zakitworld.netlify.app )
@@ -12,7 +12,7 @@ I've been learning to code for four years now after gaining admission to further
 *   🚀  I'm currently working on [PortfolioTemplate](http://github.com/zakitworld24/zakportfolio.io/index.html )
 *   🧠  I'm learning React js
 *   🤝  I'm open to collaborating on Open source development
-*   ⚡  I'm night 🦉<a href="https://www.twitter.com/@AbdulJibrilla" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm night 🦉<a href="https://www.twitter.com/@zakitworld" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/@AbdulJibrilla?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/zakitworld24 " target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/zakitworld24 ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
