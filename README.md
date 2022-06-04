@@ -4,7 +4,7 @@ Hi 👋 My name is Abdul-Razak, J
 Web Developer and Designer
 --------------------------
 
-I've been learning to code for four years now after gaining admission to further my education at University. I started with C++ but have really found a passion for front-end development.
+I've been learning to code for four years now after gaining admission to further my education at University. I started with C++ but have really found a passion for Full-stack development.
 
 *   🌍  I'm based in Accra, Ghana 🇬🇭
 *   🖥️  See my portfolio at [MyPortfolio](http://zakitworld.netlify.app )
