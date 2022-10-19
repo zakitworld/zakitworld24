@@ -1,16 +1,16 @@
 Hi 👋 My name is Abdul-Razak, J
 ===============================
 
-Web Developer and Designer
---------------------------
+Full-stack Developer and Tutor
+------------------------------
 
 I've been learning to code for four years now after gaining admission to further my education at University. I started with C++ but have really found a passion for Full-stack development.
 
 *   🌍  I'm based in Accra, Ghana 🇬🇭
 *   🖥️  See my portfolio at [MyPortfolio](http://zakitworld.netlify.app )
-*   ✉️  You can contact me at [Zakitworld@gmail.com](mailto:Zakitworld@gmail.com )
+*   ✉️  You can contact me at [Zakitworld@gmail.com](mailto:zakitworld@gmail.com )
 *   🚀  I'm currently working on [PortfolioTemplate](http://github.com/zakitworld24/zakportfolio.io/index.html )
-*   🧠  I'm learning React js
+*   🧠  I'm learning Digital Marketing
 *   🤝  I'm open to collaborating on Open source development
 *   ⚡  I'm night 🦉<a href="https://www.twitter.com/@zakitworld" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/@AbdulJibrilla?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
